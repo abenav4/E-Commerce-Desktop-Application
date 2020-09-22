@@ -23,12 +23,17 @@ Steps to use JavaFX program:
 https://gluonhq.com/products/javafx/
 
 [2] Unzip to a location you remember.
+
 [3] Pull our Phase 2 project on Markus, open /phase2/.
 
 [4] (In IntelliJ) File -> Project Structure -> Project
+
 [4.1] Project SDK should be set to "1.8 java version "1.8.0_261""
+
 [4.2] SDK default should be set to (8 - Lambdas, type annotations etc.)
+
 [5] Go to File -> Project Structure -> Libraries
+
 [6] Click on plus sign to add JavaFX by pointing to the lib folder of the JavaFX SDK you just unzipped.
 
 The data folder (/phase2/data/) should either be empty or existent. If there are any .ser files, delete them manually, without safe search.
