@@ -1,6 +1,6 @@
 # E-Commerce-Desktop-Application
 Functional E-Commerce Desktop Application built in Java for CSC207 Class.
-UI Component requires JavaFX, for which installation instructions are provided below.
+UI component requires JavaFX, for which installation instructions are provided below.
 
 Welcome to Group 0147's Trading System.
 
