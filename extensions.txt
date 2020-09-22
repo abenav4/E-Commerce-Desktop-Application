@@ -1,0 +1,16 @@
+** Extended Feature List from Phase 1 **
+    We are 6 people also so the prof said we can do 3 optional type 2 features and 1 unique type 3 feature.
+
+    * All mandatory Type 1 features
+    - Undo features: Admin undo trades before first meetup date, undo deleted items from user inventory.
+    - Suggest trade items
+    - Demo user
+    - Adjust all threshold values when admin is browsing users
+    - New account status: Banned
+
+    * 3 optional type 2 features
+    - Extending the trade type: adding multiple items to a single trade
+    - GUI (counts as 2 features)
+
+    * 1 unique type 3 feature
+    - Private message and reporting function
