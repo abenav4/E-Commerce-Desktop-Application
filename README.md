@@ -18,8 +18,10 @@ The UML is available in the UML folder.
 Installation guide + program functionality demo: https://www.youtube.com/watch?v=ubOZN-V_8oo
 
 Steps to use JavaFX program:
+
 [1] Download  JavaFX Runtime. Scroll down and download the installer for your operating system.:
 https://gluonhq.com/products/javafx/
+
 [2] Unzip to a location you remember.
 [3] Pull our Phase 2 project on Markus, open /phase2/.
 
