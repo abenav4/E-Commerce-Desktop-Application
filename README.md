@@ -2,8 +2,6 @@
 Functional E-Commerce Desktop Application built in Java for CSC207 Class.
 UI component requires JavaFX, for which installation instructions are provided below.
 
-Welcome to Group 0147's Trading System.
-
 Javadocs are available under phase1/javadoc/.
 Accessing index.html will allow you to view the javadocs for the whole program.
 
@@ -44,27 +42,6 @@ Be in /phase2/ of the project before running the program.
 Run StartScreen.main() to run the program.
 When exiting the program, please use the provided Exit button rather than exiting through Task Manager
 or through closing through the taskbar
-
-
-                                            ----------------------------
-
-
-** Extended Feature List from Phase 1 **
-    We are 6 people also so the prof said we can do 3 optional type 2 features and 1 unique type 3 feature.
-
-    * All mandatory Type 1 features
-    - Undo features: Admin undo trades before first meetup date, undo deleted items from user inventory.
-    - Suggest trade items
-    - Demo user
-    - Adjust all threshold values when admin is browsing users
-    - New account status: Banned
-
-    * 3 optional type 2 features
-    - Extending the trade type: adding multiple items to a single trade
-    - GUI (counts as 2 features)
-
-    * 1 unique type 3 feature
-    - Private message and reporting function
 
 
                                             ----------------------------
