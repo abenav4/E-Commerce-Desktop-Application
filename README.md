@@ -13,7 +13,7 @@ The UML is available in the UML folder.
 
 ** Instructions to Run Program / Program Demo **
 
-Installation guide + program functionality demo video: https://www.youtube.com/watch?v=ubOZN-V_8oo
+Installation guide + program functionality demo video: https://youtu.be/Cyka0WdvqGo
 
 Steps to use JavaFX program:
 
