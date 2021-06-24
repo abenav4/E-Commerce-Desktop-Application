@@ -15,6 +15,8 @@ The UML is available in the UML folder.
 
 Installation guide + program functionality demo video: https://youtu.be/Cyka0WdvqGo
 
+[![Installation guide](http://img.youtube.com/vi/Cyka0WdvqGo/0.jpg)](http://www.youtube.com/watch?v=Cyka0WdvqGo "Java E-Commerce Application Demo, Installation Tutorial")
+
 Steps to use JavaFX program:
 
 [1] Download  JavaFX Runtime. Scroll down and download the installer for your operating system.:
